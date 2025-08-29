@@ -1,0 +1,23 @@
+If using Reed Switch:
+
+One leg → D2
+
+Other leg → GND
+
+Use INPUT_PULLUP → normally HIGH, goes LOW when magnet closes the switch
+
+If using Hall Sensor (A3144):
+
+VCC → 5V
+
+GND → GND
+
+OUT → D2 (digital signal)
+
+LED:
+
+D8 → LED anode → 220 Ω → GND
+
+Optional Buzzer:
+
+D9 → Buzzer +, Buzzer – → GND
