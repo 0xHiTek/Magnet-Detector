@@ -1,0 +1,13 @@
+Arduino Uno R3
+
+Reed switch or Hall effect sensor (digital output type, e.g., A3144)
+
+1× LED
+
+220 Ω resistor
+
+(Optional) Buzzer for sound alert
+
+Breadboard + jumper wires
+
+A small magnet
